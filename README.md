@@ -1,6 +1,3 @@
-
-To create a proper README file for your WooCommerce export plugin, here’s an example outline. You can customize the details based on your plugin's actual features and specifics:
-
 WooCommerce Product Export Plugin
 Overview
 The WooCommerce Product Export Plugin allows you to easily export product data from your WooCommerce store. This plugin provides a seamless way to extract information about your products, including their metadata, SKU, stock status, prices, and more, all in a downloadable format.
